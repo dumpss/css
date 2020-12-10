@@ -1,0 +1,28 @@
+@charset "utf-8";
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding-top: 1em;
+    font-family: Baskerville, "Palatino Linotype";
+    background-color: #EEE;
+    color: #333;
+    font-size: 1em;
+}
+#topbar{
+    padding: 1em;
+    background-color: #0AC;
+    color: white;
+    margin-bottom: 0.5em;
+    text-align: center;
+    font-variant: small-caps;
+    font-size: 2em;
+
+}
+#topbar p{
+    width: 40%;
+    border: solid 1px white;
+    padding: padding: 0.3em;
+    display: inline-block;
+}
